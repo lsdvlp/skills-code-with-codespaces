@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo apt-get update
-sudu apt-get install s1
+sudo apt-get install s1
